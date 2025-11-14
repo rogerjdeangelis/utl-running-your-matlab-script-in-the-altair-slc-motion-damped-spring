@@ -4,6 +4,11 @@
 
 Running your matlab script in the altair slc motion damped spring
 
+Too long to post in listserv, see github
+
+github
+https://github.com/rogerjdeangelis/utl-running-your-matlab-script-in-the-altair-slc-motion-damped-spring
+
 Graphical soluton from matlab for motion of a dampled sprint a damped spring.
 https://github.com/rogerjdeangelis/utl-running-your-matlab-script-in-the-altair-slc-motion-damped-spring/blob/main/matllab.png
 
@@ -158,13 +163,8 @@ print('d:/png/matllab.png', '-dpng');
                 |_|
 */
 
-
-
-
-
-
-
-
+Graphical soluton from matlab for motion of a dampled sprint a damped spring.
+https://github.com/rogerjdeangelis/utl-running-your-matlab-script-in-the-altair-slc-motion-damped-spring/blob/main/matllab.png
 
 /*___
 |___ \   _ __ ___   __ _  ___ _ __ ___  ___
