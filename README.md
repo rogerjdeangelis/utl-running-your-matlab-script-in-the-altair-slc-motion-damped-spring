@@ -1,10 +1,13 @@
-# utl-running-your-matlab-script-in-the-altair-slc-motion-damped-spring
-Running your matlab script in the altair slc motion damped spring
     %let pgm=utl-running-your-matlab-script-in-the-altair-slc-motion-damped-spring;
 
     %stop_submission;
 
     Running your matlab script in the altair slc motion damped spring
+
+    Too long to post in listserv, see github
+
+    github
+    https://github.com/rogerjdeangelis/utl-running-your-matlab-script-in-the-altair-slc-motion-damped-spring
 
     Graphical soluton from matlab for motion of a dampled sprint a damped spring.
     https://github.com/rogerjdeangelis/utl-running-your-matlab-script-in-the-altair-slc-motion-damped-spring/blob/main/matllab.png
@@ -160,13 +163,8 @@ Running your matlab script in the altair slc motion damped spring
                     |_|
     */
 
-
-
-
-
-
-
-
+    Graphical soluton from matlab for motion of a dampled sprint a damped spring.
+    https://github.com/rogerjdeangelis/utl-running-your-matlab-script-in-the-altair-slc-motion-damped-spring/blob/main/matllab.png
 
     /*___
     |___ \   _ __ ___   __ _  ___ _ __ ___  ___
